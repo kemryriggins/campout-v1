@@ -1,3 +1,3 @@
-# YelpCamp
+# Campout
 
-### Refactored by Ian Schoonover
+## Refactored by Kemry Riggins
